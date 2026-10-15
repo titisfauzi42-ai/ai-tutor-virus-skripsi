@@ -1,0 +1,8 @@
+{
+  "name": "Video Animasi Virus + AI Tutor",
+  "description": "Media pembelajaran interaktif materi Virus untuk siswa SMA kelas X yang menggabungkan video animasi pembelajaran dan AI Tutor dalam satu halaman untuk mendukung pemahaman materi dan belajar mandiri.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
